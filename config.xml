@@ -6,6 +6,7 @@
         <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
     </feature>
     <plugin name="cordova-plugin-camera" source="npm" />  
+    <plugin name="cordova-plugin-file-transfer" source="npm" />  
     <name>Camera</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
